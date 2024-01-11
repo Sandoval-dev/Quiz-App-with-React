@@ -1,0 +1,27 @@
+
+.modal-btn{
+width: 350px;
+height: 50px;
+font-size: 17px;
+background-color: #621BE7;
+color: white !important;
+border: 1px solid transparent;
+border-radius: 10px;
+display: flex;
+align-items: center ;
+justify-content: center;
+margin-top: 1rem;
+cursor: pointer;
+}
+
+.modal{
+    text-align: center !important;
+}
+
+.modal-title{
+    font-weight: bold;
+    font-size: 30px;
+    color: white !important;
+    margin-bottom: 10px;
+
+}
